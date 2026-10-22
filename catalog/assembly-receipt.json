@@ -1,0 +1,21 @@
+{
+  "started_at_utc": "2026-10-22T08:32:43.103638+00:00",
+  "archive_proof_sha256": "ceeaa06bb8a53db6f4d30324a78260516022d07df962ab8804b0502e07c9736b",
+  "recovery_proof_sha256": "5046642070d285ba01321bd8227866e2d69807568ce5d64922fbb4e734f5c6f9",
+  "expected_files": 24047,
+  "expected_bytes": 8984024258,
+  "game_runtime_validated": false,
+  "complete_historical_manifest": false,
+  "historical_expected_assets": 32174,
+  "available_declared_assets": 24044,
+  "missing_declared_assets": 8130,
+  "counts": {
+    "extracted_archive": 6876,
+    "copied_verified_local_android": 16966,
+    "recovered_exact_windows": 205
+  },
+  "physical_bytes_read": 7105371008,
+  "status": "PASS_AVAILABLE_CORPUS",
+  "source_metadata_unchanged": true,
+  "ended_at_utc": "2026-10-22T08:47:54.883048+00:00"
+}

@@ -1,0 +1,3489 @@
+{
+  "candidates": [
+    {
+      "path": "Assetbundle/LowLargeSpec/Effect_UI_Calendar.unity3d",
+      "bytes": 25036,
+      "md5": "266cea5071be990a46b5356566a8282d",
+      "sha256": "a9b88cdb1da6d905201c8dacbafdfee6232678643fc886a060dcdea016355772",
+      "crc32": "183393321",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.3.4f1",
+          "serialized_version": 15,
+          "object_count": 21
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_Icon_Item_Material2_Alpha.unity3d",
+      "bytes": 6683,
+      "md5": "fdd153ad5dea79431dc9ecf1a6c3c263",
+      "sha256": "86ad69493e71b51d1e8be3d2682c1d0e2ac37926d5c11a4b17679e39d8c3c16c",
+      "crc32": "3248564207",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_Icon_Item_Material3.unity3d",
+      "bytes": 64700,
+      "md5": "8804c188e046f7bb072f03b2647ea01f",
+      "sha256": "834510bbc70cf2669d8cf50bbbb9cf6361505b586331dd5376c080c1d98f6a49",
+      "crc32": "3761623787",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_BMPopup2.unity3d",
+      "bytes": 259212,
+      "md5": "0ea986a7f68960070c83e7a0266f18ab",
+      "sha256": "f80cb26e3ee8712bd9b1dc17f6a3641a10a167c0e80fa22dc6c142b70e1cad27",
+      "crc32": "271530439",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_BMPopup3.unity3d",
+      "bytes": 308684,
+      "md5": "6adaad78f46c8763d793293d0db50b2a",
+      "sha256": "a090b9ba823015b6f65f53f8a62d2e024e27bfa80691a928b6ae5514c09937f7",
+      "crc32": "3624004506",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_BMPopup4.unity3d",
+      "bytes": 1366363,
+      "md5": "ee39ad4f7f207cd7016a0fbe571c6a73",
+      "sha256": "be80617234db0e435527ed059bc145c82aec157b2fdae9700da96d5199bd12a5",
+      "crc32": "3635160120",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_BMPopup5.unity3d",
+      "bytes": 1484943,
+      "md5": "853d1ab2e2d1d199e0aadb46eebdcc50",
+      "sha256": "8eb74f08a9477aa48998cddf9b0f0c7797214a64abea40b7e12a5b4d7ef1a1ff",
+      "crc32": "1353742627",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_Dungeon_Info_GuildRaid.unity3d",
+      "bytes": 467130,
+      "md5": "48030a9b5713271a8f2ac518b3813614",
+      "sha256": "95b04a9a7921ba6732e2dcdf6fb3db7e8f14a5ec8d3d6bee82184982bfb87f5c",
+      "crc32": "3199398077",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_GuildConstruction_image.unity3d",
+      "bytes": 2004005,
+      "md5": "3d5c2fe994eecfa8e629b30baaebe932",
+      "sha256": "fbe079cebf6ab7b3559879e8f817a5de95f86278e5ed35b9439752e412c57ff0",
+      "crc32": "355957690",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.6.4p2",
+          "serialized_version": 17,
+          "object_count": 8
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_JukeBox.unity3d",
+      "bytes": 1635908,
+      "md5": "d2efc26bda014d47bcd5cfe1bb35e6a8",
+      "sha256": "79f122ef87b091e4a34a659d05a103f87b99d6d87692f97bd6c3d4f7b70e5911",
+      "crc32": "881152239",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_Portrait_School1.unity3d",
+      "bytes": 269011,
+      "md5": "f6f1d8abd1a175c290f637b04fb59ad5",
+      "sha256": "b2ff37df6c80320a03529dce0468f60589e9d50e980c1bc4bbe870cbbd341dda",
+      "crc32": "3550210195",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.3.4f1",
+          "serialized_version": 15,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_Prefab_Labyrinth2.unity3d",
+      "bytes": 25493,
+      "md5": "8bbd577a45a25f418a15f37bbddc1457",
+      "sha256": "b66d3b2ce74256227afe701f4c73e1128b732a15e081a83d186f8acc2ec1b760",
+      "crc32": "2784194683",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_Prefab_Labyrinth3.unity3d",
+      "bytes": 24357,
+      "md5": "4e0232ecc681f9e7da3617e895646c6f",
+      "sha256": "c3f9fc415774b64a1274ba367279910de64361740b2dda2a7970b0638e61efff",
+      "crc32": "2883753587",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_Prefab_MainLobby.unity3d",
+      "bytes": 286329,
+      "md5": "1af4e1996337506f2447c017c6324553",
+      "sha256": "db4b88adb9c8bd420c2005de7d5f2619df94d0d5ed365d486c95e756cee098a7",
+      "crc32": "3143153670",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_Prefab_MileageShop.unity3d",
+      "bytes": 16663,
+      "md5": "8cea467925012cdcaf406b283d5fb32d",
+      "sha256": "c2c7cecd790e57dff24522859f48b3d314898afe5642773457621f78d7b28c44",
+      "crc32": "3712074655",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_Prefab_Raid1.unity3d",
+      "bytes": 251383,
+      "md5": "9b9de0d2c0bb70e4975f073b258ac873",
+      "sha256": "74b59a6a39f5722f92415bdaa41db1750d8ecb7652debef9cc07070841f3e5fb",
+      "crc32": "1672006574",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_Prefab_Shop2.unity3d",
+      "bytes": 75534,
+      "md5": "52af1bb43942c18f5df5434bfc0808b4",
+      "sha256": "a7b94b3ff826fe10ef3fa6b0c3ad051b7e21a636048665f84897fb1cb7432eef",
+      "crc32": "1122927698",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_Prefab_Shop3.unity3d",
+      "bytes": 84042,
+      "md5": "b4785164dddeea347b1bbbe3acca7405",
+      "sha256": "82f1b052e525c42151a8d6639619b75c6b90d00313dff58875d289fa428c510e",
+      "crc32": "3827586775",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_Prefab_Shop5.unity3d",
+      "bytes": 101609,
+      "md5": "679250ada44ea5651bbec7b608caa3ce",
+      "sha256": "0829f8606b3faed13c161f2a923abe75294579392dd692b2e54a6fff23e1d9e5",
+      "crc32": "3130665725",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_Prefab_Shop6.unity3d",
+      "bytes": 93334,
+      "md5": "4f54c543440de3ce8bd278ad55f8c7d9",
+      "sha256": "a50f8f2e475729e740efc5ea78b06690973cb94985eb8c6d10a19b7b1f27ba80",
+      "crc32": "4203645028",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/NguiAtlas_UI_UI_Tower2.unity3d",
+      "bytes": 187467,
+      "md5": "0f8353dc4a262b29349d1242a8175295",
+      "sha256": "a916c51091994f8b2f36a443e200a148faed4555b3c1230f415c0c42fe5aedf9",
+      "crc32": "159868630",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.6.4p2",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowLargeSpec/Ngui_BattleFieldMap_Chapter2_Field3.unity3d",
+      "bytes": 84056,
+      "md5": "72946fcf1f37b3e612623879161df9fd",
+      "sha256": "da965e1caac9789b2f56c40a5b6e08e1eea64f5944a0655cf7021f56fa6171dc",
+      "crc32": "997353809",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 22
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/BattleFieldMap2_Raid_IceField1.unity3d",
+      "bytes": 303285,
+      "md5": "3dc9a9e204e9b81085e82fa248a8b557",
+      "sha256": "8d5c194e31fc866980e62f52cbf3a1a0f7c331c2b93934491fb840e8633c5933",
+      "crc32": "2621783890",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 16
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/BattleFieldMap2_Substory_Ophelia_Field1.unity3d",
+      "bytes": 320684,
+      "md5": "230c71947ec9f6f530533a86501cb18b",
+      "sha256": "723791375c14670964beb8f735a545ff564b6ec61307e8e86bfa1e6605909b94",
+      "crc32": "2373303757",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 19
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Boss_Isolet_Star0.unity3d",
+      "bytes": 555671,
+      "md5": "f4ec0844890eeddae96411b537cd1b13",
+      "sha256": "a0257aa2f562902ba317cc1280500977f2f11c2882704c43b609c22b6f5397e7",
+      "crc32": "2886059506",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 290
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Boss_Isolet_Star5.unity3d",
+      "bytes": 96625,
+      "md5": "5e98658f9db53191448da5c2f29e5479",
+      "sha256": "56e075de6486e5476d24cf1241574f55876370ea2892106d3c415b06c97232ed",
+      "crc32": "3722733442",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 39
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Event_Door_Double_Star0.unity3d",
+      "bytes": 115006,
+      "md5": "66a091d95efa81cf95846ead76acdebb",
+      "sha256": "4769fcec49070097079a2f04df69dd771cc1dc49699614a48f9238007ba38c04",
+      "crc32": "3046953731",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 22
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Event_Door_Single_Star0.unity3d",
+      "bytes": 115813,
+      "md5": "a3934a6f9a66fb31573b5e151c77f432",
+      "sha256": "e37b451ebc2b2a086136bed1ffae20a010ce36b2103d0576837d5b326564b7d1",
+      "crc32": "2482082935",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 17
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Aselica_Hair_Cos18.unity3d",
+      "bytes": 226000,
+      "md5": "8b3fc5de9076e0bfa116ac00b3142619",
+      "sha256": "5423890ba7b090d94dfec945af16a118db26fa542a92d45f9810e1930482a788",
+      "crc32": "81934870",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 99
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Aselica_Hair_Cos19.unity3d",
+      "bytes": 329056,
+      "md5": "0df19dfcd286f2935583f79f290b6485",
+      "sha256": "ce2b110438471529836bd48d6a01c4bd11faa82ebce95a9d7956c1fda8c26e16",
+      "crc32": "3625547789",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 186
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Aselica_Hair_Cos20.unity3d",
+      "bytes": 100160,
+      "md5": "807d640dd1af899d05a7d9bd35f054a8",
+      "sha256": "5471cdaed3cece95e6da5abc84c025406e312b911e9a7c10590e2aa6950cb9ae",
+      "crc32": "1920672863",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 50
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Chrisha_Hair_Cos20.unity3d",
+      "bytes": 157888,
+      "md5": "189d36caad8d282c66e2bc8711b06b0a",
+      "sha256": "ca03a8b4b4a097cf09c50597fd06490f7aab4837b26a6f640866396bf4fb26d9",
+      "crc32": "1737398066",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 40
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_DarkLordKasel_Hair_Cos20.unity3d",
+      "bytes": 211567,
+      "md5": "5460ff5b3767242edec822ffb16eb317",
+      "sha256": "d2c4d274bc9dc9e0fc4c002477b5fd0cb22cfbaf4f3649762d0a20fd46fc269c",
+      "crc32": "4278321980",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 74
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_DarkLordKasel_Hair_Cos21.unity3d",
+      "bytes": 80141,
+      "md5": "76603f191ee78567387262431e1c545a",
+      "sha256": "b8a99160de30a2c5e7b35e5cbf330db294e7c31329d66c6fd71d9d4bbde42f66",
+      "crc32": "1240699122",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 25
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Ezekiel_Hair01.unity3d",
+      "bytes": 94878,
+      "md5": "8659ecfa852d10a99aeebc16dc73178b",
+      "sha256": "50a0a533ac500aaff4359a1094e48c00920ccbbde5ca02be30052b58dab7a653",
+      "crc32": "1446337458",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 31
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Ezekiel_Hair01_Ordeal.unity3d",
+      "bytes": 94915,
+      "md5": "3cc7c968b5578c3b2d45c8d2b5fb0930",
+      "sha256": "c0e27ae1180bcc9e3ad0e9fd1caa06fc7e5522a78a3ad578d2f96653bab0e5e1",
+      "crc32": "2322307608",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 31
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Ezekiel_Hair01_Trans.unity3d",
+      "bytes": 93435,
+      "md5": "e4ac4f450f5a53fd551ab0b6853d3a6d",
+      "sha256": "5e02cbcd640a0a7fbe3a4a13540acb879692c19cfb2b6a66f55e587439714434",
+      "crc32": "3578058271",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 31
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Ezekiel_Hair02.unity3d",
+      "bytes": 113999,
+      "md5": "56041d16440cea288e3b5f07080632fb",
+      "sha256": "c003bc49b2ffa8387c74bba6b43654656d23b6ec16d9e74824ef0287e0e46e21",
+      "crc32": "522741250",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 31
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_FallenFrey_Hair_Cos20.unity3d",
+      "bytes": 488646,
+      "md5": "859864782e96bfa5c2629b6fe53d29ea",
+      "sha256": "09bbbb52366f6665ecd03cfc8314b494b303b38a548b2e97ae15c6926305c8cd",
+      "crc32": "3737332226",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 100
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Fluss_Hair_Cos19.unity3d",
+      "bytes": 364661,
+      "md5": "b8ee6e848030a4cc456693e9e7ca58a9",
+      "sha256": "491d99f9c841034eab561beb2831fb1d6f0d2968dc24d0d18469edfe4f13a247",
+      "crc32": "1472587089",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 385
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Fluss_Hair_Cos20.unity3d",
+      "bytes": 239735,
+      "md5": "5fa6354c722594c47263e1e8476c2b8f",
+      "sha256": "6e2bbb476aa2aa917e95658f9302bd9a6e2d5e46cafe671c6ad0d8a0b038f594",
+      "crc32": "2781793199",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 68
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Frey_Hair_Cos19.unity3d",
+      "bytes": 512690,
+      "md5": "9bca8ecb2ade2bd4d6a59c4c6fa6da1b",
+      "sha256": "80aeae2e1cda5988a8845e84a13fdfa67558032aaf662a9bfd3860205a5d95f9",
+      "crc32": "2021359543",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 161
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Frey_Hair_Cos20.unity3d",
+      "bytes": 137760,
+      "md5": "d8bcac086461524214e718410805f3ed",
+      "sha256": "ddc634314504f181474a26ee1d3bbdbe0fa9df5c4fc5b771b0c3959a52d4b7d2",
+      "crc32": "2170143581",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 33
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Isaiah_Cos20_Hair.unity3d",
+      "bytes": 131757,
+      "md5": "5d3debf1843a26e9ac492f4b0c97fdfa",
+      "sha256": "935c0d1af42e77d2c7d4d91ad7fb425d8a361d95f5adaa9fa044930f34ef8c0d",
+      "crc32": "783524400",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 49
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Kasel_DarkLord_Cos21.unity3d",
+      "bytes": 562324,
+      "md5": "4e1fb5647bcbeb4bc0f7d6739f11d824",
+      "sha256": "0060f1408f1c80a28d6bd49d781015790bc65d070337309e2a126f7f1fa87abc",
+      "crc32": "625556918",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 250
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Kasel_DarkLord_Hair_Cos21.unity3d",
+      "bytes": 80227,
+      "md5": "0eca4d9d2ab81fa0e5b661b5be8b2529",
+      "sha256": "6530661256aa1b63eeceb560a7b22600fd4628c946aab399bb6722c93e7be87a",
+      "crc32": "4038343188",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 25
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Kasel_DarkLord_Star05_Ordeal.unity3d",
+      "bytes": 80238,
+      "md5": "16007e9b6b7046a5db042b5df030f0d7",
+      "sha256": "486bd570fe09e031f74337dbfd0dafe6bc1b0ea96aa8785ca13b4d5d307987d0",
+      "crc32": "1821560849",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 28
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Laudia_Hair_Cos18.unity3d",
+      "bytes": 183975,
+      "md5": "fa565131a6a1011d1ae2045d79646314",
+      "sha256": "78aa3735bf568889dbe5d2752d8330333c5e398d4187190fd43932091c55c293",
+      "crc32": "1319656682",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 246
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Laudia_Hair_Cos19.unity3d",
+      "bytes": 355885,
+      "md5": "49d7a912f1df04e89f50f708381c9e91",
+      "sha256": "99265092fde212410a21a4cde01a0f262dd4799925b4f6db76613fcf9e925ec5",
+      "crc32": "2576697852",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 334
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Laudia_Hair_Cos20.unity3d",
+      "bytes": 163680,
+      "md5": "8929caa1f44518eaf548252f39642c66",
+      "sha256": "d56c6feff600cca9bed1f7f6bdbfac0b2f0ed1fc80ac071240771fdfeae712a1",
+      "crc32": "2918983453",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 39
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Leo_Cos20S.unity3d",
+      "bytes": 176525,
+      "md5": "f30f238ee38cc7c53f7fa9410db0bf89",
+      "sha256": "f6d8c635f000bb940a8bc9949da6878efd6c1345823dc295f82c6e2809d5d6de",
+      "crc32": "1920921904",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 77
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Lilia_Hair_Cos21.unity3d",
+      "bytes": 120502,
+      "md5": "ee329794cf58d91b444a3d5f616071c8",
+      "sha256": "81d6968423dcc91dd3782d9ebcacea5aaf2c8b132318f58e3f773e4d45f772fe",
+      "crc32": "876773151",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 49
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Ophelia_Hair.unity3d",
+      "bytes": 302705,
+      "md5": "80ef53059675afbb4faf269c25e96a49",
+      "sha256": "a998f256d37e17c169896d1b64bb6ee83aea702c3f41867d3b3c95cec5434bf0",
+      "crc32": "4167278938",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 417
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Requina_Hair_Cos18.unity3d",
+      "bytes": 238491,
+      "md5": "def27462c356ea68625f02542d076df7",
+      "sha256": "dbb686c9e0da0f9b8f92a4e34d73410d057965d82a8c2225be621269d9c2a2f6",
+      "crc32": "4158555718",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 93
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Requina_Hair_Cos19.unity3d",
+      "bytes": 167692,
+      "md5": "f408fce260093d5162d4419f1293fc18",
+      "sha256": "f58926ece228812323bd6a33ec653afcd8a35b2cc30f44a93ea96aaeef3ab480",
+      "crc32": "3937213778",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 87
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Requina_Hair_Cos20.unity3d",
+      "bytes": 131703,
+      "md5": "47377219fc4b641cfd02bb00fe45af96",
+      "sha256": "e9fe9e349987b354da6a26ed45fc4da458ba777f2d37b35564bee318ef2fa26b",
+      "crc32": "3424326875",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 46
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Roi_Cos20a.unity3d",
+      "bytes": 47334,
+      "md5": "9705a9fd1c4399da403ec296fb1018ca",
+      "sha256": "93a51900a8be01f29e23579cec71f6c157ce3dc056258ca93302f76733d10f4c",
+      "crc32": "1241632002",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 9
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Shea_Hair_Cos18.unity3d",
+      "bytes": 361796,
+      "md5": "2c6a04edb93cc5238a86e0802f11217a",
+      "sha256": "1c6452a8887f5f77bc380d8b4986903a4dae289c6801d0f789d1dc53956d0bc0",
+      "crc32": "1467105189",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 495
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Shea_Hair_Cos19.unity3d",
+      "bytes": 121465,
+      "md5": "b66b238c94a9df0753fb3d408c8c5407",
+      "sha256": "45090e4a892e8a6e30084f1ea46c411354c7f1e788afe05497e9e232369795a7",
+      "crc32": "3000370438",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 68
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Talisha_Cos20Halloween.unity3d",
+      "bytes": 485086,
+      "md5": "d1a62eb73ad6636962552800dd4bd840",
+      "sha256": "681e5a288ee7036507f1403760f45683c1b4934209cb134044fdd782d0612e46",
+      "crc32": "2906499932",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 252
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Hero_Theo_Cos20a.unity3d",
+      "bytes": 107500,
+      "md5": "7cb190f5e5273f719b4946d52930ef15",
+      "sha256": "2ac9008b0d33f412af663aed6a7bee461a235c0dfab390c46416a923cd52a782",
+      "crc32": "3936449042",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 28
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Monster_Automata_LKDIV_Star0.unity3d",
+      "bytes": 119438,
+      "md5": "68d68e128d0c880096e556150b07159a",
+      "sha256": "03f0b903a70b89f50c23ddac47989b299ca3c8eb4e3fde4a284d862a6e10e627",
+      "crc32": "77442397",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 83
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Monster_Goblin_Shield_Bonus_Star0.unity3d",
+      "bytes": 267175,
+      "md5": "6c74e4dd0521cc71e75bf3cd2fd2dee7",
+      "sha256": "8f7b2686103c246a2c918ad970aff7902b3536815d116b3833547645522b9847",
+      "crc32": "1776282819",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 102
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_NPC_Orvel_Sphere_Star0.unity3d",
+      "bytes": 22154,
+      "md5": "e1c78264cfa3924a4d7ce8f9294d5d7f",
+      "sha256": "36221f3eef0a5a4fd2b7318bef804c080849bd8c83c189002392ab2cca344286",
+      "crc32": "309502772",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 10
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_NPC_PetHouseDoor_Door_Star0.unity3d",
+      "bytes": 86467,
+      "md5": "705011710330e4f0288562f5a1e842ca",
+      "sha256": "60506da9a854c0018ad32033f46420242228543651a20b7de2f0af3dabb22eec",
+      "crc32": "3033505167",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 10
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_NPC_PetHouseDoor_Frame_Star0.unity3d",
+      "bytes": 178749,
+      "md5": "78b1715f5fcdb14df965ad019f60b1e8",
+      "sha256": "e557da324ae6064d21c47ee0eac204909ef4fa4f55335baf37f2afd8a163b582",
+      "crc32": "403998264",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 10
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_NPC_Requina_Star0.unity3d",
+      "bytes": 352084,
+      "md5": "36febca9f164c9873b68bc19c36835af",
+      "sha256": "c496b293fcf3afa2d19dc5a8acb8080dcee7c9f272b87887ec2e15277eea725e",
+      "crc32": "2346309698",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 230
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Object_ZLucikiel_Unique_Star0.unity3d",
+      "bytes": 76223,
+      "md5": "7749392aae900a4d8adaae960303c37a",
+      "sha256": "aa3c3ee6357668cdb8b64b25863bb1093bf2df08fee91a41202bc439b766019e",
+      "crc32": "3953440734",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 23
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Object_ZLucikiel_Unique_Star1.unity3d",
+      "bytes": 76223,
+      "md5": "5cabe5bce4c3b064ef59dee3cd0a083f",
+      "sha256": "402e4501e30fe4cf90784026b52cf25a73401f91cd02940fb018f76438cd3ba2",
+      "crc32": "2426520955",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 23
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Object_ZLucikiel_Unique_Star2.unity3d",
+      "bytes": 76223,
+      "md5": "22a5bbdaed53afffc7d5562403efd0e0",
+      "sha256": "5666eeb18a80c8e08ff7d423205bc6912632af6225b0d3a53eee6df067b9ead3",
+      "crc32": "497963668",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 23
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Pet_LobbyCameraCenter_Star0.unity3d",
+      "bytes": 6685,
+      "md5": "f1bdd4096189ef9d6eebaf29f2c3e41b",
+      "sha256": "f2c7e882af6c842fb0b954be8d3cd3fe8bbb1cbad414fe275821ecb28eacb2b9",
+      "crc32": "1237798949",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 8
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Pet_Object_Feed_Star0.unity3d",
+      "bytes": 69685,
+      "md5": "f8c68689828a298ba7cb3489ee13e73e",
+      "sha256": "c49c6b0abc6b8c31cf676cafc6c26146885c0b0866c57a782e802acf9c0ce380",
+      "crc32": "3506517504",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 10
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_Pet_Regend_Artia_Star0.unity3d",
+      "bytes": 201420,
+      "md5": "9866c90fee1ff6dca99fc4531d21cb7b",
+      "sha256": "032491726d5a7f14063db430ea5c3631c0871db4231dec1c72029fa92b9dc8fd",
+      "crc32": "1447017150",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 100
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Creature_WorldBoss_Shakmeh_Star0.unity3d",
+      "bytes": 735012,
+      "md5": "a2444500aa169fc5da4438504d942239",
+      "sha256": "1c8bc4be689ae6f2f4d81821122a34ae7014b265d1ef55bb5b0ba02f28835944",
+      "crc32": "2080664727",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 283
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Accessory_Head_Head_GL13_B_H.unity3d",
+      "bytes": 22459,
+      "md5": "27630701e170e6e3265512309480db58",
+      "sha256": "1e230fc1982851eab72e4e1f181741e5985e4e8863ab82780c6f60266c997e38",
+      "crc32": "2826887863",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 9
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Accessory_Head_Head_GL13_B_L.unity3d",
+      "bytes": 21688,
+      "md5": "a5807c36f3158bfd90c677c027db33db",
+      "sha256": "e1ae3b7d6bf90883442dabf93913e6305cd74c68afc4c125799cb8536164c85f",
+      "crc32": "148764758",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 9
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_BattleFieldMap_WorldBoss_ApocalypsionField_1.unity3d",
+      "bytes": 140772,
+      "md5": "72cd2ae8719e4e5ac439ef4c23d04aa1",
+      "sha256": "4cc4a1924ca67df71e3aa29e39990759c582544c8deb5f6e1b4c0903e8462b4f",
+      "crc32": "1800974863",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 49
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_BattleFieldMap_WorldBoss_ApocalypsionField_2.unity3d",
+      "bytes": 789166,
+      "md5": "44e80530fd297cb155054d8ad1cb404e",
+      "sha256": "367b975971c61c010a5ac154c591a0f7738fe722819f2129ce7bb193134b0c84",
+      "crc32": "3078524990",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 48
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Raider_House_BG.unity3d",
+      "bytes": 2865647,
+      "md5": "fdffc6692a1a969f2fdea6a3ea516329",
+      "sha256": "d0e723d3d71f77b41524b738027221b91af96d57d246f10217ad80861ea29423",
+      "crc32": "3574985808",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 123
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Raider_Incubator_Open.unity3d",
+      "bytes": 151048,
+      "md5": "e08af60fb20533d00ff5beab7ac42ab5",
+      "sha256": "b93f1ff236773512fd0b7f21f1c0e0ba995babafc8ab34a39eb48275ce518f19",
+      "crc32": "246633973",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 72
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Raider_Incubator_Phase2.unity3d",
+      "bytes": 35373,
+      "md5": "07dc965b804c5956efe2276a88ca4a42",
+      "sha256": "eb297a51e4099a3c20141091caa77c62a203b404614b6155567fe4ccb3ad0653",
+      "crc32": "3848280357",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 9
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Raider_Incubator_Phase2Start.unity3d",
+      "bytes": 66723,
+      "md5": "f23dd6961c9217d3239bf2619640d230",
+      "sha256": "0638cf695ef81a158b3404798d8a791032a000a7bad53ae93eaa138ecada6457",
+      "crc32": "1197539046",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 34
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Raider_Incubator_Phase3.unity3d",
+      "bytes": 145935,
+      "md5": "1fc90347191d92717b6cc7a88484c165",
+      "sha256": "ce816d61e9f0f5e4fff32fdfbc976f01720cdd7fb18821402aa8672a287013a2",
+      "crc32": "3031330061",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 35
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Raider_Incubator_Phase3Start.unity3d",
+      "bytes": 145357,
+      "md5": "746a09477186f8faed5b96a5e13d68dd",
+      "sha256": "17b2502c0bfe920add827f7764c9af2c04d18ea379b7a8851d8eb00fea03f785",
+      "crc32": "2874532915",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 35
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Boss_Altigma_Idle.unity3d",
+      "bytes": 119951,
+      "md5": "ce76a5d6e08c8ee0b3be1fa9b374616d",
+      "sha256": "4bcd1cb8f5143db03d7af1143044b4b85019b5c16633f365adf2152ee6ee50c2",
+      "crc32": "300906938",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 32
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Boss_PredatorMK-X_Warrior_N_Skill3_Loop.unity3d",
+      "bytes": 53739,
+      "md5": "668c9e943c11c546eeeeca80107e4051",
+      "sha256": "38233ea23cf9b57cb2d879f83a0731da408e719f2da58c1166adf8175d088be9",
+      "crc32": "2766606316",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 46
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Boss_PredatorMK-X_Warrior_Skill3_Loop.unity3d",
+      "bytes": 52983,
+      "md5": "a0126ae77d1f90462863ede69980933a",
+      "sha256": "7ba8e41a5f42792501485bff1c472c3c4299e64b218cd796e0f9d2f584cf24c8",
+      "crc32": "51192045",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 46
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Boss_Scavir_Skill3_Casting.unity3d",
+      "bytes": 151020,
+      "md5": "a69187ec931773afa206efea41ae4080",
+      "sha256": "7448e8c8ab605f946691c21fd81c5d45be9c86f699c355175f29e72cf9998917",
+      "crc32": "2351886166",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 177
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Cain_Skill1-1_Casting.unity3d",
+      "bytes": 105923,
+      "md5": "f3a6c7d35cf790891030b93918a10dd9",
+      "sha256": "6c0de3fc9a8a79555a9e160d7234a5fe971d8dd04e2cfa2b17e7bf564ac24170",
+      "crc32": "2008190765",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 52
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Cain_Skill1-2_Hit.unity3d",
+      "bytes": 92613,
+      "md5": "0ed93cfd46235a959b4daf30513ee0f0",
+      "sha256": "5b56ec9001480901d564d1435c5ad828cb9794559644357aadbd7ade26906c1d",
+      "crc32": "2412844434",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 49
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Cain_Skill3-1_Casting2.unity3d",
+      "bytes": 91528,
+      "md5": "de238b07f0def89c54ce3920c0f61d7d",
+      "sha256": "2a7217916d1391b0343ad2b387b2f004ffbbd1b4b923e879e1d735e60a2eb230",
+      "crc32": "1685236959",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 55
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Cain_Skill3-1_Loop.unity3d",
+      "bytes": 83451,
+      "md5": "7f472a62f76ca481cc251b3623540c0d",
+      "sha256": "d8097571ac6206a2e1b4f35e67f9439b830a8d4ea0223963d50e0a0bed6d1a27",
+      "crc32": "3992427240",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 28
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_ClauseTraitor_Skill3_2.unity3d",
+      "bytes": 126045,
+      "md5": "692c1bce1e70f7e262f68db0712ebb4f",
+      "sha256": "5cdc25ceec87ad8a864abfc292292eb7022b792272ef449d658fde984b2aa454",
+      "crc32": "4187136537",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 37
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Dakaris_Skill2_HitLoop.unity3d",
+      "bytes": 105319,
+      "md5": "a9cc6e9fbc33d06655eb79bb1e72b7a0",
+      "sha256": "3da7d8083090bd78fd8b091f573298ec585540c775a67eb7f8faf0655f0f1f04",
+      "crc32": "3040541503",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 57
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Evan_Cos20ChristmasSignature.unity3d",
+      "bytes": 268622,
+      "md5": "50975a1e4538942536bea88b78662153",
+      "sha256": "b0afe4744f3dd43474e0c07267956d68b725622a3b15f4ef690a83cabad148ac",
+      "crc32": "663766426",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 72
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Hanus_SoulWeaponSkill1_Weapon.unity3d",
+      "bytes": 29840,
+      "md5": "78123655be34b72f620d2a7d890bb2b6",
+      "sha256": "8ceb5a3f1e8b7fe2bb7fe49ae2a38bef62f5fa0c9c978cceceef0b41a9ec5dd1",
+      "crc32": "1590672467",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Isolet_Cos20ChristmasSignature.unity3d",
+      "bytes": 47020,
+      "md5": "062c25e625106900e795c263702c21ff",
+      "sha256": "cfd555c0fc3ec152bddd71fd6f472a720a2acc1255c07c40a4fc32647d8006fa",
+      "crc32": "751784546",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 44
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Isolet_Skill2_Hit.unity3d",
+      "bytes": 139024,
+      "md5": "f6e50a7332b9884a01f0ba5853bec730",
+      "sha256": "9600f487a6f1c7ac4bb248d8f1c51d28df291f51e46bd7b807a4a5b8ad364726",
+      "crc32": "588329306",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 94
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Kara_Skill3_Shot.unity3d",
+      "bytes": 28553,
+      "md5": "9be1c53984590c1237cf6e4985fb7e8f",
+      "sha256": "988567f802f0c4f988dc134aa5ca9e245f25ba1bf90d9254609b920d3366d3fe",
+      "crc32": "4046813559",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Kasel_DarkLord_Attack1-1.unity3d",
+      "bytes": 90204,
+      "md5": "d0c77bdc141ddce7fe1fde51abd4eded",
+      "sha256": "71e02ac3a5b6ab6f7911dfe3b1ed174b3c607d761b21b78b4b728ba45479159f",
+      "crc32": "918392378",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 64
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Kasel_DarkLord_Attack1-2.unity3d",
+      "bytes": 49166,
+      "md5": "d3b79830ed193f2ca6663ba057923630",
+      "sha256": "41ae8d152d131ad1510404dbb64cc78790554b522bbcc86e1662dcf1ca439491",
+      "crc32": "2768276985",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 39
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Kasel_DarkLord_Skill1-1.unity3d",
+      "bytes": 114723,
+      "md5": "d947aa0c8b601571f6d0e611f9333c3c",
+      "sha256": "ccf3b35f323117895fab63a50d0e09689aec45ba5cae7d6caacfafa934553096",
+      "crc32": "879036679",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 106
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Laudia_SoulWeaponSkill1_CastingLoop.unity3d",
+      "bytes": 138323,
+      "md5": "33ec856254943b364ffa63a7151331f3",
+      "sha256": "2affe39f95e8f94c8f70ae1fdecebcab07eccfabb387137e15934939d468aba9",
+      "crc32": "2289893281",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 54
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Pavel_Re_Skill3_Hit.unity3d",
+      "bytes": 73323,
+      "md5": "c90ec1a4a80b54de7f7e757c1e43062e",
+      "sha256": "e2d3a0a55ad2247dd1040b349185efc4ec6a94636cee1c8cf85a4341f23d052a",
+      "crc32": "279822861",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 137
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_RequinaCos20GloryLeague_Victory.unity3d",
+      "bytes": 122771,
+      "md5": "ce442c74ee53550562918ec2ba184d1a",
+      "sha256": "e9db6388d933798af68bba68225652c7741f8a479439b7941e9804b4d2faa559",
+      "crc32": "1462134246",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 51
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Valance_Attack1_Casting.unity3d",
+      "bytes": 30282,
+      "md5": "bf56f5c26ab8785cba339ccb45c857fc",
+      "sha256": "63f95166b4d6587533b5e5e74562d71fe35ac57449faa112a0804cbac44153b7",
+      "crc32": "1279119761",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 18
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Valance_Attack1_Hit.unity3d",
+      "bytes": 29976,
+      "md5": "dc0ef0b1313e53ef12433a1d9af674ea",
+      "sha256": "6e6cf89f3cf89550fc674a7b29927c85a942f26bd8360f24f4d7bb9da8b81413",
+      "crc32": "523577408",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 13
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Valance_Attack1_Projectile.unity3d",
+      "bytes": 12195,
+      "md5": "8b79ba27d86252c0fa790d842fefcdbb",
+      "sha256": "eab0be326a087188e6407dfff9d67137a55b8c88ee22bb37f4647ffbc8ed9f93",
+      "crc32": "2157178448",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 10
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Valance_Idle.unity3d",
+      "bytes": 33011,
+      "md5": "a6441ac0e371b60ef4ec56a763c2e442",
+      "sha256": "dc007e2449568a51d8be0669c7162fc95df41bb643e8a7c67876a724d0b2fa52",
+      "crc32": "1453448887",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 19
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Yanne_Attack1_Hit1.unity3d",
+      "bytes": 89477,
+      "md5": "8e051952b7e1d9a29cf99089c9fadd6e",
+      "sha256": "96e5933275bd07bb0643b2b1a008041b41030dd2c1401d4bea4e8542d87ffde5",
+      "crc32": "2781472078",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 21
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Yanne_Attack1_Hit2.unity3d",
+      "bytes": 91623,
+      "md5": "fcb05cd69fa6b1c01b63297e301d0248",
+      "sha256": "32990dc36c00d3ec0d3a4900fa7746170e0baace4b7050fde0647b2962ec81c8",
+      "crc32": "1406718211",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 27
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Yanne_Attack1_Projectile1.unity3d",
+      "bytes": 9535,
+      "md5": "dd927e238d6844d2909f2a8d06cc0983",
+      "sha256": "bc2ec3e14dd2b2067d2a89e8b3b81a2ef6d6cc531ccf017a09db2b4b054bd3ec",
+      "crc32": "1155403825",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 11
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Yanne_Attack1_Projectile2.unity3d",
+      "bytes": 38554,
+      "md5": "9a4c45b270a6f9463b7f6c5ed7dddc62",
+      "sha256": "88c530a55ba2f5dfccd84bba157b2e8f7c9fefc6a3ef74ce05eb38a66f3ec3d0",
+      "crc32": "3399369358",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 23
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Yanne_Attack1_Shot.unity3d",
+      "bytes": 13957,
+      "md5": "71c8677961a1823be67d7478c61e0886",
+      "sha256": "dd450dca50186267fc084cfd628c80cf827a793231807bc27fc3c81d6f715d13",
+      "crc32": "837764286",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 10
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Yanne_Skill1_Casting.unity3d",
+      "bytes": 37163,
+      "md5": "ef0eb39de4af9e36177349170512cd85",
+      "sha256": "d445399540692d678435c5f3db58ccd2471a24d03ea31ba446ce2b9f687ab59f",
+      "crc32": "4094850160",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 17
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Yanne_Skill1_Loop.unity3d",
+      "bytes": 47486,
+      "md5": "3796024f7fa276cc1b666b4ce9d17e91",
+      "sha256": "fda3bb7aca668f44c6bad5d23a356524fd32ac61997475960b560d6fb96d8c01",
+      "crc32": "1859305540",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 86
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Yanne_Skill1_Shot.unity3d",
+      "bytes": 57587,
+      "md5": "c2aafbaee2d0c0f5872332f927f9184e",
+      "sha256": "e412b1b6edfc3898d62de43dbba5ed12c7cd4073c7603ac1e56618e7977a8e06",
+      "crc32": "3205780936",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 96
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Yanne_Skill2_Casting.unity3d",
+      "bytes": 79002,
+      "md5": "9a51ffe3e609d1289d5ebc21b4ccec4f",
+      "sha256": "a426f69878473e4be39f4427c773721f034a7610a07aaaabf9448404f6a46154",
+      "crc32": "685297293",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 94
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Yanne_Skill2_Hit.unity3d",
+      "bytes": 95799,
+      "md5": "9a2aee3ce77f004fe6b28deb41258e2c",
+      "sha256": "5550d5715ab7405d3b74c02b9932379f0fdba2dfac4db5c457915a9e787c8339",
+      "crc32": "3157398489",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 33
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Yanne_Skill2_Projectile.unity3d",
+      "bytes": 55331,
+      "md5": "05b65ed822cf4f8a5edfe73609074484",
+      "sha256": "e19fa250632e6e5b4436239c7e1c8e972d341656c83a4bf9889dc90e3f27e632",
+      "crc32": "3809712984",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 35
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Yanne_Skill3_Casting.unity3d",
+      "bytes": 57687,
+      "md5": "db9575f28fc6bbdddd3e48921fcf2894",
+      "sha256": "324f788aa01e5f78b5c76988a2085428b8da10fe51a1faf13fa096badfc7756f",
+      "crc32": "2887656267",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 48
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Yanne_Skill3_Loop.unity3d",
+      "bytes": 90458,
+      "md5": "708af2153a5d3494fe7e5f58d7f5fdcb",
+      "sha256": "08eabde7da11ab3b041a5c79fe8c88c4665323b44d1f49c332afd016251a4c97",
+      "crc32": "2240648106",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 21
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Hero_Yuria_Skill1_Hit.unity3d",
+      "bytes": 110217,
+      "md5": "a8b51555daf30a9da45ac5bb1b739ed7",
+      "sha256": "c68a48407c16166c0fb8e4496cc4459567a7c11c2b67efa474bf2dad5656bd32",
+      "crc32": "1921117050",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 43
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Monster_NecromancerChaser_Skill1.unity3d",
+      "bytes": 119998,
+      "md5": "9199f8e5f382827d1b54713e783002ae",
+      "sha256": "9b0876595a3b13382e6652e0a8d62fbb038b1943e2c18003cc383cc74ba05187",
+      "crc32": "1224058377",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 47
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Monster_Sekireinel_Warrior_Attack1_1.unity3d",
+      "bytes": 15596,
+      "md5": "4d7982cd0d9a1255990a26de00edbb88",
+      "sha256": "c33dfd97483b01dbc33978e1a505e0d194baeb9af9b42c89a80cc446d4e6f7e4",
+      "crc32": "2760771212",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 21
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Monster_Sekireinel_Warrior_Attack1_2.unity3d",
+      "bytes": 15599,
+      "md5": "9a63068f7af0860906f70fdb4d5d043a",
+      "sha256": "8339aca109d36b2699505eacdd44561878aa029bbf1156f3b332e46e89bf8035",
+      "crc32": "672091642",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 21
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Raid_IceTortoise_Skill4_Hit1.unity3d",
+      "bytes": 28403,
+      "md5": "5b041962c4645715dadef138a8f88b29",
+      "sha256": "2f92b1ad8d55693211d3602584db825aa1844e3ac5cbcba3118a5e329594d4d4",
+      "crc32": "232418291",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.6.4p2",
+          "serialized_version": 17,
+          "object_count": 19
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Raid_IceTortoise_Skill4_Projectile.unity3d",
+      "bytes": 35135,
+      "md5": "47c6be3c45a3654f84e97c2e3c183297",
+      "sha256": "ee21b22f424b240585bd8fa28b83c06d40431634d7960d939d1beb2e6cd3dafa",
+      "crc32": "500393554",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.6.4p2",
+          "serialized_version": 17,
+          "object_count": 22
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Raid_LizardmanLakreil_Skill2_Casting.unity3d",
+      "bytes": 105377,
+      "md5": "4d664ed3e97b32467baf1a9d432f3e6e",
+      "sha256": "797ad28416e45445babb8e4d399106b0f7c2e07d5c730476a749054cded708d6",
+      "crc32": "3830557458",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.6.4p2",
+          "serialized_version": 17,
+          "object_count": 92
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Raid_RizardmanGarrow_Skill1_Casting.unity3d",
+      "bytes": 347463,
+      "md5": "3eb414c03c6c46957850b34d693de254",
+      "sha256": "1ebc21f1c8cea570863af73356b2c8169a4bca688d01ef4eb027cd92bcb967ef",
+      "crc32": "1509839104",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.6.4p2",
+          "serialized_version": 17,
+          "object_count": 110
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Raid_RizardmanGarrow_Skill1_CastingLoop.unity3d",
+      "bytes": 193686,
+      "md5": "34662ab75b841ee9109dad04f90249c2",
+      "sha256": "a871a711099fea66334ba01dc12ca3edc6e53d7b634a02223ef7cd4291e93dff",
+      "crc32": "2655218883",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.6.4p2",
+          "serialized_version": 17,
+          "object_count": 56
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Raid_RizardmanGarrow_Skill2_Casting.unity3d",
+      "bytes": 225161,
+      "md5": "622e29b3d75b52e89adcaf4cc47057bf",
+      "sha256": "1dadf83b662f8881e58b3bdf8a03731c15c3d44d3cc565d0cd2274c448023ad4",
+      "crc32": "2833579908",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.6.4p2",
+          "serialized_version": 17,
+          "object_count": 112
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Raid_RizardmanGarrow_Skill3_Casting.unity3d",
+      "bytes": 96150,
+      "md5": "d33fea2238846de69bd45bc3ac4eff7b",
+      "sha256": "c880af41d1df93bab9f215f0d32a915a997b3d38f13c8dab06c73cd02d3d0219",
+      "crc32": "2195997568",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.6.4p2",
+          "serialized_version": 17,
+          "object_count": 55
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Raid_RizardmanGarrow_Skill3_HitLoop.unity3d",
+      "bytes": 46551,
+      "md5": "dbc3ac33eb10438c89d82b649ecfa7e8",
+      "sha256": "b61b90d59f70adba5c17c22fd6b23d89800a8d3177328d1eeb3ae8c486bebfc1",
+      "crc32": "2090975937",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.6.4p2",
+          "serialized_version": 17,
+          "object_count": 19
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Raid_RizardmanGarrow_Skill4_Casting1.unity3d",
+      "bytes": 66042,
+      "md5": "60786d15cf36e1febd72ae86444214a3",
+      "sha256": "65bc6f52290d41a1866864a8674659e7b6fa8ead8526715fb5e77f5815a8f3d5",
+      "crc32": "459513290",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.6.4p2",
+          "serialized_version": 17,
+          "object_count": 28
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_Raid_RizardmanGarrow_Skill4_Casting2.unity3d",
+      "bytes": 257553,
+      "md5": "a69c793edb82e9a602548a6b293fce1d",
+      "sha256": "f1487ca34f98d9b61c6ba1e615aa98278291753f453464998001f01bd5312bf5",
+      "crc32": "3304392521",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.6.4p2",
+          "serialized_version": 17,
+          "object_count": 158
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_WorldBoss_Xanadus_Skill2_Hit.unity3d",
+      "bytes": 35527,
+      "md5": "4e41ebdbb2588bdab05006df076db861",
+      "sha256": "f8099dc543793354c3657b74e16e22fdf6d37fbe09241fa1765153f726008b42",
+      "crc32": "3088879604",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.6.4p2",
+          "serialized_version": 17,
+          "object_count": 24
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_WorldBoss_Xanadus_Skill2_Hit1.unity3d",
+      "bytes": 28229,
+      "md5": "f6eee6fdcdf69ed6ff564ed8f9695206",
+      "sha256": "ddd9957214910cb2c251bd5d5c58b5f8fa5f9a9df9669c08c7a0c718a8eac981",
+      "crc32": "1258323502",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.6.4p2",
+          "serialized_version": 17,
+          "object_count": 23
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_WorldBoss_Xanadus_Skill2_Loop.unity3d",
+      "bytes": 109194,
+      "md5": "008a9d3ce6c308307e435a9b4f1251d6",
+      "sha256": "d4e7ce22a12559105d67d85f761d8132151e979917d34fc60a70b74abf37871d",
+      "crc32": "1692680583",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.2.20f1",
+          "serialized_version": 17,
+          "object_count": 29
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Skill_WorldBoss_Xanadus_Skill2_Loop1.unity3d",
+      "bytes": 104390,
+      "md5": "59406844f75167f6c619eed16d113393",
+      "sha256": "370d35e49a26321c80d3d65839df0450936f55b6632702d25f7a82565fd7640b",
+      "crc32": "3967470077",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.6.4p2",
+          "serialized_version": 17,
+          "object_count": 29
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Transcendence_ZLucikielTest.unity3d",
+      "bytes": 132657,
+      "md5": "27829c82a4fc6d2cc695d28be8b8138c",
+      "sha256": "863374e1208f81bbc7a47e268aec94de0385e490ab8485910775bd08e3ade7f6",
+      "crc32": "3658466011",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 58
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_Transcendence_ZLucikielTheoTest.unity3d",
+      "bytes": 34073,
+      "md5": "f14ecef8804c1950b38a634e01ec37d7",
+      "sha256": "c081c7ceed8e141ea7f54e32ae277dd93c5169661176e9a4e6406e9ef8bc5c8e",
+      "crc32": "3394975061",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 13
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_UI_GuildRaid_GaugeFrame.unity3d",
+      "bytes": 6887,
+      "md5": "7f4a00bd295f97a9be264d57ea92bcc6",
+      "sha256": "857ecdf14955570ef65c29cd4a52c42b3127f009062b30a7a4fa99378ed36668",
+      "crc32": "2956911462",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.3.4f1",
+          "serialized_version": 15,
+          "object_count": 9
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_UI_Node_ShakmehDungeon.unity3d",
+      "bytes": 105957,
+      "md5": "4d424c76eb65f00b4ed5512fe96f3cf4",
+      "sha256": "cad28450530005865ac4c29b642ffdd8fd0fb354bfb1696179dc423aadb87ba4",
+      "crc32": "545100322",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 60
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_UI_Portal_Particle_Blue.unity3d",
+      "bytes": 29349,
+      "md5": "1d17e016bc1b9655a65652745c8910d0",
+      "sha256": "1f880492684afec506f8a7150692e1a64e58daa6c6fd4909d6ff065700c1b01c",
+      "crc32": "3094193253",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_UI_Portal_Particle_EclipseDungeon.unity3d",
+      "bytes": 29827,
+      "md5": "db4de3cf6cbfcd080449516096cf96ac",
+      "sha256": "4b26e7156324e0227ad2eecea1ee88c43656d224109ba279f719fb0d0d4401ff",
+      "crc32": "1862634134",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 14
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_UI_Portal_Particle_Green.unity3d",
+      "bytes": 29279,
+      "md5": "5bd10a89cec6824f69bc2ee50dc634b7",
+      "sha256": "6ef6c7d82d3aacaa124d18458e318061fe44fc23a4f2d052d6654a8833f751ef",
+      "crc32": "815049460",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_UI_Portal_Particle_NavyBlue.unity3d",
+      "bytes": 29371,
+      "md5": "a4e2fe09dea03c4cafc5aee804a3c10c",
+      "sha256": "24590964003ccb07edbb0a3c6682eec7d8b96b93e3475a80d92ad52ed0369384",
+      "crc32": "572727134",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_UI_Portal_Particle_Orange.unity3d",
+      "bytes": 29295,
+      "md5": "a680c24c02feab19aae04f2f1a858de9",
+      "sha256": "a8991d2663f67799cc23d096acd228ec574499729f98f507ac17d31b33d22a57",
+      "crc32": "2380237010",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_UI_Portal_Particle_Purple.unity3d",
+      "bytes": 29014,
+      "md5": "2712b85cadde96f21cff8358fd9c3855",
+      "sha256": "f95599e63ddea103e0ce4b846bae1b190535e872752278a7b10759686c64af13",
+      "crc32": "2203777460",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_UI_Portal_Particle_Red.unity3d",
+      "bytes": 29172,
+      "md5": "859eae5e08ccdf070bcf97aa996232a1",
+      "sha256": "1be297485ac25d0205596341bfb13c56610e6d1dcaaa475387ae406553e04bf8",
+      "crc32": "1897605775",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_UI_Portal_Particle_White.unity3d",
+      "bytes": 29011,
+      "md5": "68a7879968d3fe72c00f3c11e5258e01",
+      "sha256": "dc2be071a59d13003d26ea78f6d127b6ea428340fd2251f34be410b73a2a51c4",
+      "crc32": "314311187",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_UI_Portal_Particle_Yellow.unity3d",
+      "bytes": 29242,
+      "md5": "642fc16d0c21fe0381eb61dae89fe7d1",
+      "sha256": "f7ff713d0d2c857571225bdeb6f17e5eb7abf8c5fcfc97a8b27be9c52933ca7d",
+      "crc32": "798049242",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Effect_UI_WorldMap_Effect_CloudShadow.unity3d",
+      "bytes": 27524,
+      "md5": "f0729968400cddc9d788d08e0042e25e",
+      "sha256": "8ae78cd842f5cf3c927ae793510f50f00236c6c7beb8337416c452af802015c9",
+      "crc32": "3451848547",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "5.3.4f1",
+          "serialized_version": 15,
+          "object_count": 8
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/NguiAtlas_PunishmentRune_BG.unity3d",
+      "bytes": 52674,
+      "md5": "007049b0764b2a9be254a6f083cbc92d",
+      "sha256": "01cbfdc02d64bab9265bf85918be922887585f9de06f2edd7725b10056f7fe23",
+      "crc32": "2134187800",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/NguiAtlas_UI_GuildConstruction_image.unity3d",
+      "bytes": 314614,
+      "md5": "b89f20f57ab61f856a981d458b5c80dd",
+      "sha256": "cc9865de8779594c1bfb0e2d6bd51bf335b8202c36a8a8fde92343a719b27515",
+      "crc32": "2909477901",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/NguiAtlas_UI_UI_Tower3.unity3d",
+      "bytes": 47402,
+      "md5": "722755c493881e9a76cc29d32e6f94e8",
+      "sha256": "3c253bb5f246dcca18c2817fdbee6d4e953a1c56a59d3f44415411aa46c1e830",
+      "crc32": "4269763267",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Ngui_Substory_Halloween_Battle.unity3d",
+      "bytes": 26754,
+      "md5": "a676439f141ebd7cd2fb1c55ffc418b4",
+      "sha256": "e993d3a757a3f0282ceb86ba73bb6675191e28b0c220c870eff7a87e3999a083",
+      "crc32": "3621775900",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 23
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Ngui_Substory_Halloween_HouseHall.unity3d",
+      "bytes": 27141,
+      "md5": "affbf7cf864477f99491308da70bf260",
+      "sha256": "d3659a65a6aa644bd78034e2c189f7ab348da04ae0a802c7b61326fe993bd716",
+      "crc32": "1007206256",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 23
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/LowSpec/Ngui_Substory_Library_Night.unity3d",
+      "bytes": 26851,
+      "md5": "c07c9fe6d6329660050bef011283c977",
+      "sha256": "ec1b53428e8d4444add9639c71c8148274ae10825d4498ebf9fb119ebe704327",
+      "crc32": "3265629922",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.5f1",
+          "serialized_version": 17,
+          "object_count": 23
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[ChineseSimplified]/HighAndMidSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 881048,
+      "md5": "a63825dfc6be6adfed25a631b8f5c5f5",
+      "sha256": "ab3f247c3b59aa4c4382e62afdc2f08e87c956a676f87eed6ada9da7019b4dcf",
+      "crc32": "340505002",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[ChineseSimplified]/HighAndMidSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 556352,
+      "md5": "51e59dd269b1c5459661200e897c1427",
+      "sha256": "9ad93ebd6224b4c7f2fb4ffb476b255e9ae53d70b8def9b73f69c66eca29dce7",
+      "crc32": "350617614",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[ChineseSimplified]/LowLargeSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 254587,
+      "md5": "d8d9b2a217aee9cae5c3a081ed6c4662",
+      "sha256": "d846c9c78cf62c9aed75b4175179b185797ac9ed6ed4e9de75361229fab6f54e",
+      "crc32": "2969908269",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[ChineseSimplified]/LowLargeSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 143537,
+      "md5": "b2a9e5e9ef6a55813eafd68d27a9b0e7",
+      "sha256": "b7737c1ddf18e80f7fae3ddb7bdf460099309ba4b28a82d59b9f720e0a124069",
+      "crc32": "1890188889",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[ChineseTraditional]/HighAndMidSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 881050,
+      "md5": "b78cc4f9ccfbee16a0db0f8681f0b811",
+      "sha256": "67bbc283b731046c730076851f1a35873061c8a65fdfbfc7dc4d1ac1c3f06b2d",
+      "crc32": "1666567692",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[ChineseTraditional]/HighAndMidSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 556921,
+      "md5": "da4392d21cdaa314aac4dabc9af5d7e4",
+      "sha256": "59f3df908c12aca605f320618532471228aa396098d3e234aaeaf89817d7bb8e",
+      "crc32": "4251522606",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[ChineseTraditional]/LowLargeSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 254528,
+      "md5": "6622b23234374ca846f08ac3c756cbdd",
+      "sha256": "db3b818d81278194e23c2c4817ebd5e365316bcd92d9c12429c519414b0c2268",
+      "crc32": "2543127529",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[ChineseTraditional]/LowLargeSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 143829,
+      "md5": "51e0f0ad7f7097f4c38503dd261efef1",
+      "sha256": "9f6a5a94ffb1be6b50fc1b06927a718aa70d9b585e587153bbf3f74d894ebd8f",
+      "crc32": "3359856487",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[English]/LowLargeSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 297713,
+      "md5": "a28f9726e018ad10035671f0c98c5ded",
+      "sha256": "97fcfd7f75a4d196402a479f1fa562d4f768a33017ba410c5d8fa0633e49c06b",
+      "crc32": "200884561",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[English]/LowLargeSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 147607,
+      "md5": "f36c6c60b77d80f1f03ee3812a855e8f",
+      "sha256": "5681705c9667468a03c5756081180b366afc715337e8ccc99e8b28f51da7a122",
+      "crc32": "2414073177",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[French]/HighAndMidSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 884531,
+      "md5": "8c2576589a1fcd2a6170e3a06fdbc170",
+      "sha256": "49047943312b0678b3eb590910f3c77a7a4e86fcc0899b4c6c4cd1651522bbed",
+      "crc32": "3110471915",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[French]/HighAndMidSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 569576,
+      "md5": "cc7d789e2912af277a59b1419093b4ab",
+      "sha256": "4f23ba7a9b90d671ed01ad1f2043b1107c566932f6278ba5d05e2eb8837f0a86",
+      "crc32": "1592586542",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[French]/LowLargeSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 255672,
+      "md5": "ca649912cab339279522be4907e28293",
+      "sha256": "80dce477abbf86d16603902229bc5c68afcc324a43e0fe7e3e07f50b279ab35f",
+      "crc32": "1650123692",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[French]/LowLargeSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 147440,
+      "md5": "5426f7a4514c77b99553f5adf3fc163e",
+      "sha256": "e44a9c522f5a5bc7a0a943cbb9b544029db0d9ec5478de30a6e6d4062a7a5347",
+      "crc32": "2375161944",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[German]/HighAndMidSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 883625,
+      "md5": "3050b6b93c5efc7d9eca2ee05b447b02",
+      "sha256": "84f0d61f1a02265379385d37c3729c91028fd06e2d8f68005ca58c9dbeb4b9bb",
+      "crc32": "2434346291",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[German]/HighAndMidSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 563685,
+      "md5": "bf4508fd81cf6e7fbbacc45c8bebb843",
+      "sha256": "a1d4a77dba13576dfab5c3e5ef580c9d41d67feee5aacb99b074ac720b725f90",
+      "crc32": "2181278441",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[German]/LowLargeSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 255822,
+      "md5": "0173c52a1a80c4def37a683eab7f47eb",
+      "sha256": "22dcac9bf1d9d3ffd6732bbe003acd62e4539623e1f2b5f5526a319d50bc2bc5",
+      "crc32": "3479863108",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[German]/LowLargeSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 145660,
+      "md5": "09d65210d771f921161af662e78a0b9f",
+      "sha256": "ed83e54107da75743651e83a9a03e89727e6f263b348829e22deae1f29ebaf43",
+      "crc32": "3143769404",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Japanese]/HighAndMidSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 883156,
+      "md5": "682778e9b3f521da3f6aefa7abef46ca",
+      "sha256": "25e90d9c02e96b9fd2795e2050142b8bd084e9e51bbddc98c3e17b610ab2f702",
+      "crc32": "2177487643",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Japanese]/HighAndMidSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 560692,
+      "md5": "accc487364fee9ea4105f8311b4d9c09",
+      "sha256": "8e218a6beb88afb2b1124081de6bee6fff264601b35317c2894e457c164058e9",
+      "crc32": "2497466287",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Japanese]/LowLargeSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 254898,
+      "md5": "9fc6fe6d63e09143a7fa0efacd9f7459",
+      "sha256": "a788964164e64e4fd8d6133653897333af0261979701feca7e66d78d04f3f1bd",
+      "crc32": "2858741268",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Japanese]/LowLargeSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 145008,
+      "md5": "a4692ec8a3545849eebeb87d56f76f5b",
+      "sha256": "d303a80fdfdfad777c357ffdc9922f9a62f32857b10536092934ea747948f08a",
+      "crc32": "1517071464",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Korean]/HighAndMidSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 881258,
+      "md5": "dfe3c888cb849fa702133dccc71dea7b",
+      "sha256": "d658bed7e084bb850821f4e9c7557afa6d234522cb2f25479f8b60c3cac828ab",
+      "crc32": "228026625",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Korean]/HighAndMidSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 560701,
+      "md5": "9d1e4969c1b5efae0cc7e908707f7b4d",
+      "sha256": "6d5d91c5f574712d857aa78fa36538a97d1cd6f6ccc63e916fa0a153824060a2",
+      "crc32": "914798437",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Korean]/LowLargeSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 254612,
+      "md5": "304fd46c95686fa2443d3cfde20e6402",
+      "sha256": "62aa413e2fe68546b44f62c62bb4def109c4abef3f7f0dd9367e7a751e92ba93",
+      "crc32": "983609972",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Korean]/LowLargeSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 145238,
+      "md5": "158ef0c943aa27653ef5df43aa687700",
+      "sha256": "9450f3dc791f4ab20fe8206ff39f3b41660ac2f3a56e0bdaf03daea6f1e7ee03",
+      "crc32": "830960097",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Portuguese]/HighAndMidSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 881795,
+      "md5": "c1a6c19f1d04eb6a61635863cc3c42b3",
+      "sha256": "ee0b63305a7e847bb9f4d6585c000da9e523adf7460fc23049ae48abc470b888",
+      "crc32": "1116986922",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Portuguese]/HighAndMidSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 567377,
+      "md5": "33cfe2e2d26b2707f250a9c2ce85367e",
+      "sha256": "95a9b663a50c01f6a4092c7a08b115ec0ab706f02d6980d4fa05031a4d3e30e1",
+      "crc32": "1014434028",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Portuguese]/LowLargeSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 254947,
+      "md5": "296f4ec3a8551fb60eb5996f741e54f7",
+      "sha256": "85159baeae339e14b48d0925c78dea57a5b4b8507e2065308674772fee11c13a",
+      "crc32": "4135893624",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Portuguese]/LowLargeSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 147389,
+      "md5": "a172339c80a2b6c867273a30d9af7cdc",
+      "sha256": "25ddace2aa9f9bc9447ab6921ebf738ac5e1fdd911ce0d02279cae7dc95f3ffa",
+      "crc32": "1898043204",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Russian]/HighAndMidSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 881200,
+      "md5": "59724d298976cd7838aec7ba3103dea1",
+      "sha256": "e4298b6577e193cc5809549cd5aa71e0e30b4a26ac07388c0b78eab812a141fd",
+      "crc32": "900022445",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Russian]/HighAndMidSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 568647,
+      "md5": "6ca7dada9725c6a9b5d376b6190b4e4f",
+      "sha256": "80d06882a6fde8f73e69fda19f8adbde7d023e5dc841afdd87acf8b5f36df095",
+      "crc32": "2412644457",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Russian]/LowLargeSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 254937,
+      "md5": "e27d6a7dcb3206abcdd148789d17f85a",
+      "sha256": "201e5ba5a6d523d9b1e541a1981cc769b8455cc11e462b2cdf684e536c8254c9",
+      "crc32": "2721853899",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Russian]/LowLargeSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 147380,
+      "md5": "19b756b5650cf8f9537fb8c7f8ddcc89",
+      "sha256": "3a5178f643078969d15f099d02da2c9397d6188385ae89cb513fb99c7cf1e5af",
+      "crc32": "278971779",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Spanish]/HighAndMidSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 569178,
+      "md5": "1bd4e329df3960ff6507de1e0aa99ed7",
+      "sha256": "f20ceab5afcd8564aaf53a76c7ed19d9f3455ce6c769738b747b2cef769ab98f",
+      "crc32": "2266480613",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Spanish]/LowLargeSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 256016,
+      "md5": "ac383b3354bfbd7142da5dd244cd7141",
+      "sha256": "0a8dbd1adc0df0c5fbc766bfe5fb59fa721220e8d682c11d2d3081c3d711124a",
+      "crc32": "104124220",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Spanish]/LowLargeSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 147677,
+      "md5": "ca92f1fae825c96e6c95293944201269",
+      "sha256": "71fde1f959886027b68555c75fa69519f82da8f22ab01d3a924abcc869c0afc5",
+      "crc32": "3776378064",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Thai]/HighAndMidSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 882094,
+      "md5": "54d15dee528a49b67cc1c4182ac9de57",
+      "sha256": "3a5ac6b338673e94b096b27b45620bee45ebc20b0906e144d46eac91cb2213d5",
+      "crc32": "3228373457",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Thai]/HighAndMidSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 564070,
+      "md5": "6af66a94d89ad381935fc64224c82c80",
+      "sha256": "df59c4218cac8ba2efea5b6650449c0bdc2665ef6f0e60eb1162e7776a92fcca",
+      "crc32": "416860328",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Thai]/LowLargeSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 254426,
+      "md5": "097c7c4d20298fb546125bdb61f1ef4c",
+      "sha256": "2b152ef360d1b1c9106c37bbb45acda1036780480092106354e1dba735f9456a",
+      "crc32": "1830009577",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Thai]/LowLargeSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 145678,
+      "md5": "5c5aa409dc2c382108f0a2bdc9495d26",
+      "sha256": "92efef92fc6dea08d9eb713ea16cc417794ed38494e6f672845b99a0f1355af9",
+      "crc32": "1770494521",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Vietnamese]/HighAndMidSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 883317,
+      "md5": "39e194061c9f3105d4955d407d1a2eb9",
+      "sha256": "f1d516dab27f2e6a965406e67097485fc01b42e5c905e1f3ddae79763ff7b53c",
+      "crc32": "1459652366",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Vietnamese]/HighAndMidSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 568090,
+      "md5": "5ea3c1d37f316e0fb395a66940494f44",
+      "sha256": "7a9fc4c8344e7ae336adc4ec0ea6fb61400a5bd4a0fedcefe2b5b40d5cac97b3",
+      "crc32": "2513515085",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Vietnamese]/LowLargeSpec/NguiAtlas_UI_BMPopupImage_Text.unity3d",
+      "bytes": 255295,
+      "md5": "db84b426c1b2aa616e5eb780fe0d81b7",
+      "sha256": "829b1188b467eed394c725f498aeee7210bef9a67df8865a1aed87b6bad8d5e4",
+      "crc32": "4003003341",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.15f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    },
+    {
+      "path": "Assetbundle/[Vietnamese]/LowLargeSpec/NguiAtlas_UI_BMPopup_Recommend6.unity3d",
+      "bytes": 146733,
+      "md5": "8ab437754566396bf6685e47b4ffbe2f",
+      "sha256": "4fe820cb9769b7ffa6be1796a7e2a1e75988ee90217e2cb9c52d86f0680b41f3",
+      "crc32": "1674647175",
+      "matches_android_size_md5_crc": true,
+      "serialized_metadata": [
+        {
+          "platform": 13,
+          "unity_version": "2018.4.18f1",
+          "serialized_version": 17,
+          "object_count": 7
+        }
+      ],
+      "game_runtime_tested": false
+    }
+  ]
+}

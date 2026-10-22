@@ -1,0 +1,24 @@
+<xml>
+  <Node Type="Root">
+    <Node Type="Sequence">
+      <Node Type="CheckPhase" Phase=""/>
+      <Node Type="Wait" DurationMs="500"/>
+      <Node Type="SetPhase" Phase="Phase1"/>
+    </Node>
+    
+    <Node Type="Sequence">
+      <Node Type="CheckPhase" Phase="Phase1"/>
+      <Node Type="Selector">
+        <Node Type="Sequence">
+          <Node Type="UseReadySkill"/>
+          <Node Type="Wait" DurationMs="1000"/>
+        </Node>
+        <Node Type="Sequence">
+          <Node Type="UseNextSkill"/>
+          <Node Type="Wait" DurationMs="1000"/>
+        </Node>
+      </Node>
+    </Node>
+
+  </Node>
+</xml>
