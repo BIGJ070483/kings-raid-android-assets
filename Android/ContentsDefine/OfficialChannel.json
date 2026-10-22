@@ -1,0 +1,160 @@
+{
+    "Settings": {
+        "America": {
+            "IsDefault": "False",
+            "ShowLobbyButton": "True",
+            "NewMarkInLobbyButton": "True",
+            "OpenInAppBrowser": "False",
+            "Channels": [{
+                    "IsEnable": "True",
+                    "Url": "https://kr-official.community/en-community/",
+                    "Icon": "wordpress",
+                    "Name_Local": "CHANNEL_WORDPRESS",
+                    "IsNewVisible": "True"
+                }, {
+                    "IsEnable": "True",
+                    "Url": "https://www.facebook.com/Kingsraid.EN/",
+                    "Icon": "facebook",
+                    "Name_Local": "CHANNEL_FACEBOOK",
+                    "IsNewVisible": "False"
+                }, {
+                    "IsEnable": "True",
+                    "Url": "https://discord.gg/kKp6ktXP",
+                    "Icon": "discord",
+                    "Name_Local": "CHANNEL_DISCORD",
+                    "IsNewVisible": "False"
+                }
+            ]
+        },
+        "Korea": {
+            "IsDefault": "False",
+            "ShowLobbyButton": "True",
+            "NewMarkInLobbyButton": "True",
+            "OpenInAppBrowser": "False",
+            "Channels": [{
+                    "IsEnable": "True",
+                    "Url": "https://cafe.naver.com/kingsraid",
+                    "Icon": "naver",
+                    "Name_Local": "CHANNEL_NAVER",
+                    "IsNewVisible": "True"
+                }, {
+                    "IsEnable": "True",
+                    "Url": "https://www.facebook.com/Kingsraid.KR/",
+                    "Icon": "facebook",
+                    "Name_Local": "CHANNEL_FACEBOOK",
+                    "IsNewVisible": "False"
+                }, {
+                    "IsEnable": "True",
+                    "Url": "https://discord.gg/tamqbV3bC2",
+                    "Icon": "discord",
+                    "Name_Local": "CHANNEL_DISCORD",
+                    "IsNewVisible": "False"
+                }
+            ]
+        },
+        "Japan": {
+            "IsDefault": "False",
+            "ShowLobbyButton": "True",
+            "NewMarkInLobbyButton": "True",
+            "OpenInAppBrowser": "False",
+            "Channels": [{
+                    "IsEnable": "True",
+                    "Url": "https://kr-official.community/jpn-community/",
+                    "Icon": "wordpress",
+                    "Name_Local": "CHANNEL_WORDPRESS",
+                    "IsNewVisible": "True"
+                }, {
+                    "IsEnable": "True",
+                    "Url": "https://twitter.com/kingsraid_jp",
+                    "Icon": "twitter",
+                    "Name_Local": "CHANNEL_TWITTER",
+                    "IsNewVisible": "False"
+                }, {
+                    "IsEnable": "True",
+                    "Url": "https://discord.gg/TGPfQwVhaU",
+                    "Icon": "discord",
+                    "Name_Local": "CHANNEL_DISCORD",
+                    "IsNewVisible": "False"
+                }
+            ]
+        },
+        "Europe": {
+            "IsDefault": "False",
+            "ShowLobbyButton": "True",
+            "NewMarkInLobbyButton": "True",
+            "OpenInAppBrowser": "False",
+            "Channels": [{
+                    "IsEnable": "True",
+                    "Url": "https://kr-official.community/en-community/",
+                    "Icon": "wordpress",
+                    "Name_Local": "CHANNEL_WORDPRESS",
+                    "IsNewVisible": "True"
+                }, {
+                    "IsEnable": "True",
+                    "Url": "https://www.facebook.com/Kingsraid.EN/",
+                    "Icon": "facebook",
+                    "Name_Local": "CHANNEL_FACEBOOK",
+                    "IsNewVisible": "False"
+                }, {
+                    "IsEnable": "True",
+                    "Url": "https://discord.gg/kKp6ktXP",
+                    "Icon": "discord",
+                    "Name_Local": "CHANNEL_DISCORD",
+                    "IsNewVisible": "False"
+                }
+            ]
+        },
+        "Asia": {
+            "IsDefault": "False",
+            "ShowLobbyButton": "True",
+            "NewMarkInLobbyButton": "True",
+            "OpenInAppBrowser": "False",
+            "Channels": [{
+                    "IsEnable": "True",
+                    "Url": "https://kr-official.community/en-community/",
+                    "Icon": "wordpress",
+                    "Name_Local": "CHANNEL_WORDPRESS",
+                    "IsNewVisible": "True"
+                }, {
+                    "IsEnable": "True",
+                    "Url": "https://www.facebook.com/Kingsraid.EN/",
+                    "Icon": "facebook",
+                    "Name_Local": "CHANNEL_FACEBOOK",
+                    "IsNewVisible": "False"
+                }, {
+                    "IsEnable": "True",
+                    "Url": "https://discord.gg/kKp6ktXP",
+                    "Icon": "discord",
+                    "Name_Local": "CHANNEL_DISCORD",
+                    "IsNewVisible": "False"
+                }
+            ]
+        },
+        "TW,HK,MO": {
+            "IsDefault": "False",
+            "ShowLobbyButton": "True",
+            "NewMarkInLobbyButton": "True",
+            "OpenInAppBrowser": "False",
+            "Channels": [{
+                    "IsEnable": "True",
+                    "Url": "https://kr-official.community/tw-community/",
+                    "Icon": "wordpress",
+                    "Name_Local": "CHANNEL_WORDPRESS",
+                    "IsNewVisible": "True"
+                }, {
+                    "IsEnable": "True",
+                    "Url": "https://www.facebook.com/Kingsraid.TW/",
+                    "Icon": "facebook",
+                    "Name_Local": "CHANNEL_FACEBOOK",
+                    "IsNewVisible": "False"
+                }, {
+                    "IsEnable": "True",
+                    "Url": "https://discord.com/channels/609669826142535691/675165391278047254",
+                    "Icon": "discord",
+                    "Name_Local": "CHANNEL_DISCORD",
+                    "IsNewVisible": "False"
+                }
+            ]
+        }
+    }
+}

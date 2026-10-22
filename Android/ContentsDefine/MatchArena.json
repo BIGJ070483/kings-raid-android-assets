@@ -1,0 +1,57 @@
+{
+    "ArenaSeasonDesc": {
+        "Normal": {
+            "Begin": {
+                "DayOfWeek": "Sunday",
+                "TimeValue": "16:00:00",
+                "IsUtcTime": "True"
+            },
+            "End": {
+                "DayOfWeek": "Saturday",
+                "TimeValue": "14:59:00",
+                "IsUtcTime": "True"
+            }
+        },
+        "BanPick": {
+            "Begin": {
+                "DayOfWeek": "Sunday",
+                "TimeValue": "16:00:00",
+                "IsUtcTime": "True"
+            },
+            "End": {
+                "DayOfWeek": "Friday",
+                "TimeValue": "14:59:00",
+                "IsUtcTime": "True"
+            }
+        }
+    },
+    "OrdealArena_GiveRewardTime": {
+        "DayOfWeek": "Sunday",
+        "TimeValue": "15:00:00",
+        "IsUtcTime": "True"
+    },
+    "WaitingTime_for_RequestOfflineMatch": "10",
+    "IntervalTime_for_RequestWaitMatch": "3",
+    "DelayTime_for_EnterBattleScene": "2.5",
+    "Duration_Short": "30",
+    "CurrentSeason_RankerList_Duration_Long": "300",
+    "PrevSeason_RankerList_Duration": "3600",
+    "Champions_of_Match": [{
+            "PvpType": "Normal",
+            "TierIndex": "70",
+            "MinRank": "1"
+        }, {
+            "PvpType": "BanPick",
+            "TierIndex": "80",
+            "MinRank": "3"
+        }, {
+            "PvpType": "BanPick",
+            "TierIndex": "80",
+            "MinRank": "2"
+        }, {
+            "PvpType": "BanPick",
+            "TierIndex": "80",
+            "MinRank": "1"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "Jumping_PayShop_Product_Indices": [930003, 930004],
+    "ForceUnlockMission_in_MissionSubCategoryComponent": [{
+            "Main": "98",
+            "Sub": "2"
+        }, {
+            "Main": "98",
+            "Sub": "3"
+        }, {
+            "Main": "99",
+            "Sub": "2"
+        }, {
+            "Main": "99",
+            "Sub": "3"
+        }, {
+            "Main": "100",
+            "Sub": "2"
+        }, {
+            "Main": "100",
+            "Sub": "3"
+        }
+    ],
+    "Localize_Need_Purchase_PayShop_Product": "UI_JUMPING_ERROR_1",
+    "Localize_Prerequisite_MissionCategory_Not_Open": "UI_JUMPING_ERROR_2",
+    "Localize_Prerequisite_MissionCategory_Not_Open_Popup": "UI_JUMPING_ERROR_3",
+    "ExtraWidgets_in_MissionNodeWindowV3": [{
+            "MissionCategory": {
+                "Main": "98",
+                "Sub": "1"
+            },
+            "Show_Button_ReceiveAll": "True",
+            "Disable_NotiPopup": "False",
+            "Linked_PlayerAnyMisc": "JumpingNewbieComeback",
+            "PayShop_Product_Index": "0",
+            "Prerequisite_MissionCategory": {
+                "Main": "0",
+                "Sub": "0"
+            }
+        }, {
+            "MissionCategory": {
+                "Main": "98",
+                "Sub": "2"
+            },
+            "Show_Button_ReceiveAll": "True",
+            "Disable_NotiPopup": "True",
+            "Linked_PlayerAnyMisc": "JumpingNewbieComeback",
+            "PayShop_Product_Index": "930003",
+            "Prerequisite_MissionCategory": {
+                "Main": "0",
+                "Sub": "0"
+            }
+        }, {
+            "MissionCategory": {
+                "Main": "98",
+                "Sub": "3"
+            },
+            "Show_Button_ReceiveAll": "True",
+            "Disable_NotiPopup": "True",
+            "Linked_PlayerAnyMisc": "JumpingNewbieComeback",
+            "PayShop_Product_Index": "930004",
+            "Prerequisite_MissionCategory": {
+                "Main": "98",
+                "Sub": "2"
+            }
+        }, {
+            "MissionCategory": {
+                "Main": "99",
+                "Sub": "1"
+            },
+            "Show_Button_ReceiveAll": "True",
+            "Disable_NotiPopup": "False",
+            "Linked_PlayerAnyMisc": "JumpingComeback",
+            "PayShop_Product_Index": "0",
+            "Prerequisite_MissionCategory": {
+                "Main": "0",
+                "Sub": "0"
+            }
+        }, {
+            "MissionCategory": {
+                "Main": "99",
+                "Sub": "2"
+            },
+            "Show_Button_ReceiveAll": "True",
+            "Disable_NotiPopup": "True",
+            "Linked_PlayerAnyMisc": "JumpingComeback",
+            "PayShop_Product_Index": "930003",
+            "Prerequisite_MissionCategory": {
+                "Main": "0",
+                "Sub": "0"
+            }
+        }, {
+            "MissionCategory": {
+                "Main": "99",
+                "Sub": "3"
+            },
+            "Show_Button_ReceiveAll": "True",
+            "Disable_NotiPopup": "True",
+            "Linked_PlayerAnyMisc": "JumpingComeback",
+            "PayShop_Product_Index": "930004",
+            "Prerequisite_MissionCategory": {
+                "Main": "99",
+                "Sub": "2"
+            }
+        }, {
+            "MissionCategory": {
+                "Main": "100",
+                "Sub": "1"
+            },
+            "Show_Button_ReceiveAll": "True",
+            "Disable_NotiPopup": "False",
+            "Linked_PlayerAnyMisc": "JumpingNewbie",
+            "PayShop_Product_Index": "0",
+            "Prerequisite_MissionCategory": {
+                "Main": "0",
+                "Sub": "0"
+            }
+        }, {
+            "MissionCategory": {
+                "Main": "100",
+                "Sub": "2"
+            },
+            "Show_Button_ReceiveAll": "True",
+            "Disable_NotiPopup": "True",
+            "Linked_PlayerAnyMisc": "JumpingNewbie",
+            "PayShop_Product_Index": "930001",
+            "Prerequisite_MissionCategory": {
+                "Main": "0",
+                "Sub": "0"
+            }
+        }, {
+            "MissionCategory": {
+                "Main": "100",
+                "Sub": "3"
+            },
+            "Show_Button_ReceiveAll": "True",
+            "Disable_NotiPopup": "True",
+            "Linked_PlayerAnyMisc": "JumpingNewbie",
+            "PayShop_Product_Index": "930002",
+            "Prerequisite_MissionCategory": {
+                "Main": "100",
+                "Sub": "2"
+            }
+        }
+    ]
+}

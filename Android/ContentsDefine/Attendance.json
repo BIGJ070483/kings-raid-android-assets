@@ -1,0 +1,5 @@
+{
+    "Localize_RemainTime_Greater_than_1day": "RAID_REMAININGTIME",
+    "Localize_RemainTime_Less_than_1day": "CHALLEGNERAID_LEFT_TIME",
+    "Localize_RemainTime_Timeout": "EVENT_MISSION_NOTICE_END"
+}
